@@ -1,7 +1,10 @@
 # Jarvis
-Modules/Libraries used: pyttsx3, speech_recognition, wikipedia, datetime, os, webbrowser
+Modules/Libraries used: pyttsx3, speech_recognition, wikipedia, datetime, os, webbrowser.
+
 Modules/Libraries to be installed: pyttsx3, speech_recognition, wikipedia (Restarting your IDE after installation of these modules is recommended)
+
 Read all the comments in the code for pasting the file paths from your computer and for URLs to websites. 
+
 When running the program, Earphones micrphone is recommended to use as it will process the the given command faster.
 
 In line 11 of the code, if the value of the list is changed from 0 to 1, The voice of Text-to-speech will be changed.
